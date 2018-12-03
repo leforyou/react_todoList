@@ -6,6 +6,6 @@ React16.4 快速上手
 简介：本课程讲给大家介绍React的开发环境搭建，组件化的开发思路以及基础JSX语法，也通过Todolist功能的实现，给大家讲解了React组件间的通信方式，同事，课程中还包括了React中使用ES6对代码进行优化的内容，以及如何对React项目进行样式修饰的内容。
 
 
-[!text image](https://raw.githubusercontent.com/leforyou/react_todoList/master/public/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
+![Image text](https://raw.githubusercontent.com/leforyou/react_todoList/master/public/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
 
 
